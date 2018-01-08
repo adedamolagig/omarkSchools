@@ -10,30 +10,22 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
+        <link rel="stylesheet" type="text/css" href="customCSS.css">
+
        
     </head>
     <body>
-        <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
-                        <a href="{{ route('register') }}">Register</a>
-                    @endauth
-                </div>
-            @endif
-
-            <div class="content">
-                <div class="title m-b-md">
-                    O'MARK
-                </div>
-
-                <div class="links">
-                  <a href=""></a>
-                </div>
+        <div class="container">
+            <div class="split left">
+                <h1>O'mark school of health Technology</h1>
+                <a href="#" class="button">Enter Site</a>
+            </div>
+            <div class="split right">
+                <h1>O'mark primary and secondary schools</h1>
+                <a href="#" class="button">Enter Site</a>
             </div>
         </div>
+
+        <script type="text/javascript" src="scratchJS.js"></script>
     </body>
 </html>
