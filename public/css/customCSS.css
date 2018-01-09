@@ -98,6 +98,7 @@ h2 {
 	content: "Site under construction...for more enquires call 08023711092";
 	width: 100%;
 	height: 100%;
+	text-decoration-color: white;
 	background: var(--right-bg-color);
 }
 
