@@ -15,14 +15,16 @@
        
     </head>
     <body>
-        <div class="container">
-            <div class="split left">
-                <h1>O'mark school of health Technology</h1>
-                <a href="#" class="button">Enter Site</a>
-            </div>
-            <div class="split right">
-                <h1>O'mark primary and secondary schools</h1>
-                <a href="#" class="button">Enter Site</a>
+        <div id="app">
+            <div class="container">
+                <div class="split left">
+                    <h1>O'mark school of health Technology</h1>
+                    <a href="#" class="button">Enter Site</a>
+                </div>
+                <div class="split right">
+                    <h1>O'mark primary and secondary schools</h1>
+                    <a href="#" class="button">Enter Site</a>
+                </div>
             </div>
         </div>
 
