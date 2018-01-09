@@ -77,3 +77,23 @@ h1 {
 	background: url(../images/health_assistance.jpg) center center no-repeat;
 	background-size: cover;
 }
+
+.split.left:before{
+	position: absolute;
+	content: "Site under construction...for more enquires please call 08023711092";
+}
+
+.split.right{
+	right: 0;
+	background: url(../images/secondary_school.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+
+.split.right:before{
+	position: absolute;
+	content: "Site under construction...for more enquires call 08023711092";
+	width: 100%;
+	height: 100%;
+	background: var(--right-bg-color);
+}
