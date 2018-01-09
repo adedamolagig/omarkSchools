@@ -991,28 +991,7 @@ Vue.component('example-component', __webpack_require__(38));
 
 var app = new Vue({
   el: '#app'
-});
 
-/** script controlling the landing page**/
-
-var left = document.querySelector('.left');
-var right = document.querySelector('.right');
-var container = document.querySelector('.container');
-
-left.addEventListener('mouseenter', function () {
-  container.classList.add('hover-left');
-});
-
-left.addEventListener('mouseleave', function () {
-  container.classList.remove('hover-left');
-});
-
-right.addEventListener('mouseenter', function () {
-  container.classList.add('hover-right');
-});
-
-right.addEventListener('mouseleave', function () {
-  container.classList.remove('hover-right');
 });
 
 /***/ }),
