@@ -19,12 +19,12 @@ html, body {
 
 }
 
-h1 {
+h2 {
 	font-size: 4rem;
 	color: white;
 	position: absolute;
 	left: 50%;
-	right: 20%;
+	right: 5%;
 	transform: translateX(-50%);
 	white-space: nowrap;
 }
