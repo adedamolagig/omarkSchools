@@ -20,6 +20,8 @@
         <div class="container">
             <div class="split left">
                 <h2>O'mark school of health Technology</h2>
+                <hr>
+                <h2>Site under construction...for more enquires call 08023711092</h2>
                 <a href="#" class="button">Enter Site</a>
             </div>
             <div class="split right">
