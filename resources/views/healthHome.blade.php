@@ -374,8 +374,8 @@
 					</div>
 					<div class="col-xs-8 contact-grdr">
 						<ul>
-							<li>+3402 890 679</li>
-							<li>+5356 890 679</li>
+							<li>+234 802 371 1092</li>
+							<li>+234 802 066 9980</li>
 						</ul>
 					</div>
 					<div class="clearfix"> </div>
@@ -389,8 +389,8 @@
 					</div>
 					<div class="col-xs-8 contact-grdr">
 						<ul>
-							<li>345 Diamond Street,</li>
-							<li>Australia.</li>
+							<li>km 11, Omark Bus stop, LASU-Isheri Road</li>
+							<li>Lagos, Nigeria.</li>
 						</ul>
 					</div>
 					<div class="clearfix"> </div>
@@ -404,7 +404,7 @@
 					</div>
 					<div class="col-xs-8 contact-grdr">
 						<ul>
-							<li><a href="mailto:info@example.com">info@example.com</a></li>
+							<li><a href="mailto:info@example.com">omarkhealth@gmail.com</a></li>
 						</ul>
 					</div>
 					<div class="clearfix"> </div>
