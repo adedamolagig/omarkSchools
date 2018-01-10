@@ -20,8 +20,8 @@
         <div class="container">
             <div class="split left">
                 <h2>O'mark school of health Technology</h2>
-                
-                <a href="#" class="button">Enter Site</a>
+
+                <a href=" {{ route('healthHome') }} " class="button">Enter Site</a>
             </div>
             <div class="split right">
                 <h2>O'mark primary and secondary schools</h2>
