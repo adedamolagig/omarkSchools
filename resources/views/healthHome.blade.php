@@ -429,7 +429,7 @@
 			</ul>
 		</div>
 		<div class="copyrightbottom">
-			<p>© 2017 E-Progress. All Rights Reserved | Design By <a href="http://w3layouts.com/">W3layouts</a></p>
+			<p>© <?php echo date("Y"); ?>. All Rights Reserved | Design By <a href="#">O'mark Schools</a></p>
 		</div>
 		<div class="clearfix"></div>
 	</div>
