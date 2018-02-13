@@ -80,7 +80,7 @@ h2 {
 
 .split.left:before{
 	position: absolute;
-	content: "Site under construction...for more enquires please call 08023711092";
+	content: "for more enquires please call 08023711092";
 	width: 100%;
 	height: 100%;
 	background: var(--left-gb-color);
@@ -95,7 +95,7 @@ h2 {
 
 .split.right:before{
 	position: absolute;
-	content: "Site under construction...for more enquires call 08023711092";
+	content: "for more enquires call 08023711092";
 	width: 100%;
 	height: 100%;
 	background: var(--right-bg-color);
