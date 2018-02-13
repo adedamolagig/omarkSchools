@@ -19,3 +19,11 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/healthHome', 'HealthController@index')->name('healthHome');
+Route::get('/healthgallery', 'HealthController@gallery')->name('gallery');
+Route::get('/healthgallery2', 'OmarkController@gallery2')->name('gallery2');
+Route::get('/healthgallery3', 'OmarkController@gallery3')->name('gallery3');
+
+Route::get('/contact', 'HealthController@contact')->name('contact');
+
+
+Route::get('/seondaryGallery', 'OmarkController@index')->name('secondaryGallery');

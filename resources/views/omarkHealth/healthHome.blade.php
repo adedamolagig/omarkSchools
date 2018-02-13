@@ -79,10 +79,10 @@
 				</div>
 			</div>
 			<div class="col-md-6 welcome-w3left">
-				<h3>What should interest you about O'mark school of Health Technology?</h3>
+				<h3>Temporibus autem quibusdam omnis dolor amet?</h3>
 				<h4>Voluptas assumenda est, omnis dolor repellendus. 
 					Temporibus autem quibusdam et</h4>
-				<p>O'mark school of health technology is the private school of health technology in Lagos. The school is duely governemnt approved and committed to providing best heath </p>
+				<p>O'mark school of health technology is a renowed government approved private school committed to providing </p>
 				<div class="readmore-w3">
 					<a class="readmore" href="#" data-toggle="modal" data-target="#myModal1">View More</a>
 				</div>

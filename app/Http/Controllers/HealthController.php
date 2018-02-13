@@ -13,9 +13,18 @@ class HealthController extends Controller
      */
     public function index()
     {
-        return view('healthHome');
+        return view('omarkHealth.healthHome');
     }
 
+    public function gallery()
+    {
+        return view('omarkHealth.healthgallery');
+    }
+
+    public function contact()
+    {
+        return view('omarkHealth.contact');
+    }
     /**
      * Show the form for creating a new resource.
      *
