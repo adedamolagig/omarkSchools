@@ -15,8 +15,8 @@
 			<div class="container">
 				<div class="col-md-5 bannergrid">
 					<div class="top">
-						<h5>Health is Wealth!</h5>
-						<h2>The Future Experience</h2>
+						<h5>Total Wellness!</h5>
+						<h2>The Future Experience...</h2>
 					</div>
 					<div class="bottom">
 						<div class="col-md-6 bannergrid1 clr">
@@ -32,25 +32,30 @@
 							<p>Programme (2 years)</p>	
 						</div>
 						<div class="clearfix"></div>
+
 						<div class="col-md-6 bannergrid1 clr2">
 						<i class="fa fa-pencil" aria-hidden="true"></i>
 							<h4>Environmental Health Technician</h4>								
 							<div class="clearfix"></div>			
 							<p>Programme (3 years)</p>	
 						</div>
+
 						<div class="col-md-6 bannergrid1 clr3">
 						<i class="fa fa-university" aria-hidden="true"></i>
-							<h4>CHEW</h4>							
-							<div class="clearfix"></div>			
-							<p>Community Health Extension Workers (years) </p>	
+							<h4>Community Health Extension Workers (CHEW)</h4>							
+							<div class="clearfix"></div>
+
 						</div>
+
 						<div class="clearfix"></div>
+
 						<div class="col-md-6 bannergrid1 clr4">
 						<i class="fa fa-bicycle" aria-hidden="true"></i>
 							<h4>Health Education</h4>								
 							<div class="clearfix"></div>			
 							<p>Promotion Programme</p>	
 						</div>
+
 						<div class="col-md-6 bannergrid1 clr5">
 						<i class="fa fa-cog" aria-hidden="true"></i>
 							<h4>Food Hygiene</h4>									
@@ -79,10 +84,9 @@
 				</div>
 			</div>
 			<div class="col-md-6 welcome-w3left">
-				<h3>Temporibus autem quibusdam omnis dolor amet?</h3>
-				<h4>Voluptas assumenda est, omnis dolor repellendus. 
-					Temporibus autem quibusdam et</h4>
-				<p>O'mark school of health technology is a renowed government approved private school committed to providing </p>
+				<h3>OBJECTIVES</h3>
+				<h4>To train suitably qualified persons in the basic knowledge of handling simple medicines for use at grass-root level under the supervision of a registered pharmacist</h4>
+				<p>To train suitable persons to the level of rendering effective assistnace to registered pharmacists</p>
 				<div class="readmore-w3">
 					<a class="readmore" href="#" data-toggle="modal" data-target="#myModal1">View More</a>
 				</div>

@@ -15,7 +15,7 @@
 			<div class="container">
 				<div class="col-md-5 bannergrid">
 					<div class="top">
-						<h5>Health is Wealth!</h5>
+						<h5>Total Wellness!</h5>
 						<h2>The Future Experience</h2>
 					</div>
 					<div class="bottom">
@@ -31,13 +31,15 @@
 							<div class="clearfix"></div>			
 							<p>Programme (2 years)</p>	
 						</div>
+
 						<div class="clearfix"></div>
 						<div class="col-md-6 bannergrid1 clr2">
 						<i class="fa fa-pencil" aria-hidden="true"></i>
-							<h4>Environmental Health Technician</h4>								
+							<h4>Food Hygiene</h4>								
 							<div class="clearfix"></div>			
 							<p>Programme (3 years)</p>	
 						</div>
+
 						<div class="col-md-6 bannergrid1 clr3">
 						<i class="fa fa-university" aria-hidden="true"></i>
 							<h4>CHEW</h4>							
@@ -51,12 +53,14 @@
 							<div class="clearfix"></div>			
 							<p>Promotion Programme</p>	
 						</div>
+
 						<div class="col-md-6 bannergrid1 clr5">
 						<i class="fa fa-cog" aria-hidden="true"></i>
-							<h4>Food Hygiene</h4>									
+							<h4>some</h4>									
 							<div class="clearfix"></div>		
 							<p>Programme</p>		
 						</div>
+
 						<div class="clearfix"></div>
 					</div>
 					<div class="clearfix"></div>	
