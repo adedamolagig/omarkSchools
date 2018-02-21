@@ -137,17 +137,11 @@
 		<div class="col-md-8 eduright">
 			<div class="right1">
 				<h3>facilitating learning</h3>
-				<p>Voluptas assumenda est, omnis dolor repellendus. 
-					Temporibus autem quibusdam et aut officiis debitis aut 
-					rerum necessitatibus saepe.Nam libero tempore, cum soluta nobis est eligendi optio cumque 
-					nihil impedit quo minus id quod maxime placeat facere possimus</p>
+				<p>Here, our students are encouraged to take control of their learning process so as to learn deeper level of understanding beyond mere lectures. Our role is that of a facilitator and organiser providing resources and needed support.</p>
 			</div>
 			<div class="right1">
 				<h3>acquisition of knowledge</h3>
-				<p>Voluptas assumenda est, omnis dolor repellendus. 
-					Temporibus autem quibusdam et aut officiis debitis aut 
-					rerum necessitatibus saepe.Nam libero tempore, cum soluta nobis est eligendi optio cumque 
-					nihil impedit quo minus id quod maxime placeat facere possimus</p>
+				<p>We provide the platform and process of getting </p>
 			</div>
 			<div class="right1">
 				<h3>teaching Subject</h3>
