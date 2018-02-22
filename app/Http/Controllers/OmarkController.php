@@ -18,4 +18,9 @@ class OmarkController extends Controller
     	return view('omark_secondary.gallery2');
     }
 
+    public function gallery3()
+    {
+    	//
+    }
+
 }

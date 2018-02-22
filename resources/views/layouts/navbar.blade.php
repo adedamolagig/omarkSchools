@@ -98,9 +98,7 @@
 <!-- contact -->
 <div class="contact">
 	<h3 class="heading">Contact Us</h3>
-	<p>Voluptas assumenda est, omnis dolor repellendus. 
-		Temporibus autem quibusdam et aut officiis debitis aut 
-		rerum necessitatibus saepe.Nam libero tempore, </p>
+	<p>Please, if you still have any questions, we have a very reliable response team that is always glad to respond to any of our queries. Please, do not hesitate to contact either via mail or mobile. </p>
 	<div class="container">
 		<div class="contact-grids">
 		

@@ -98,19 +98,19 @@
 <!-- //welcome -->
 	
 <!-- book1 -->
-<div class="book  book1 jarallax">
+<!-- <div class="book  book1 jarallax">
 	<div class="container">
 	<h3>Education is the most powerful weapon which you can use to </h3>
 	<h3>change the world.</h3>
 	<p>The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education. Education is an enlightening experience</p>
 
 	</div>
-</div>
+</div> -->
 <!-- //book1 -->
 
 <!-- Education -->
 <div class="education">
-	<h3 class="heading">Delivering pharmaceutical training and services...</h3>
+	<h3 class="heading">Delivering pharmaceutical training and Total Health care management services...</h3>
 	<div class="container">  
 		<div class="col-md-4 eduleft">
 			<div class="left1">
@@ -141,10 +141,10 @@
 			</div>
 			<div class="right1">
 				<h3>acquisition of knowledge</h3>
-				<p>We provide the platform and process of getting </p>
+				<p>We provide the platform and process of getting, structuring and organizing practical and theoretical knowledge and skills for our students to use in real life situations. </p>
 			</div>
 			<div class="right1">
-				<h3>teaching Subject</h3>
+				<h3>Teaching Subject</h3>
 				<p>Voluptas assumenda est, omnis dolor repellendus. 
 					Temporibus autem quibusdam et aut officiis debitis aut 
 					rerum necessitatibus saepe.Nam libero tempore, cum soluta nobis est eligendi optio cumque 
@@ -152,10 +152,7 @@
 			</div>
 			<div class="right1">
 				<h3>Group discussion</h3>
-				<p>Voluptas assumenda est, omnis dolor repellendus. 
-					Temporibus autem quibusdam et aut officiis debitis aut 
-					rerum necessitatibus saepe.Nam libero tempore, cum soluta nobis est eligendi optio cumque 
-					nihil impedit quo minus id quod maxime placeat facere possimus</p>
+				<p>We encourage and provide robust group discussion sessions for our students to systematically exchange ideas, information, views, research work, problems or challenges on all topics involving their training so as to deliver self confidence and a handson approach to solving problems.</p>
 			</div>
 		</div>
 		<div class="clearfix"></div>
@@ -166,8 +163,8 @@
 <!-- book -->
 <div class="book jarallax">
 	<div class="container">
-	<h3>We work hard to prepare every student for the adult life</h3>
-	<h3>Better Successful Future</h3>
+	<h3>We work hard to prepare every student to deliver premium health services</h3>
+	<h3>Total wellness...f</h3>
 	<p>Voluptas assumenda est, omnis dolor repellendus. 
 		Temporibus autem quibusdam et aut officiis debitis aut 
 		rerum necessitatibus saepe.Nam libero tempore, cum soluta nobis est eligendi optio cumque 
@@ -183,7 +180,7 @@
 <!-- //book -->
 
 <!-- clients-->
-	<div class="clients" id="clients">
+	<!-- <div class="clients" id="clients">
 		<div class="container">
 			<h3 class="heading">What our students say's</h3>
 			<div class="wmuSlider example1 animated wow slideInUp" data-wow-delay=".5s">
@@ -267,7 +264,7 @@
 					</div>
 				</div>
 		</div>
-	</div>
+	</div> -->
 <!--//clients-->
 
 
