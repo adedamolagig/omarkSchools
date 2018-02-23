@@ -26,13 +26,13 @@
             <div class="split left">
                 <h2>O'mark school of health Technology</h2>
 
-                <a href=" {{ route('healthHome') }} " class="button"><img src="images/OmarkHealth_bg.png"></a>
+                <a href=" {{ route('healthHome') }} " class="button">Click/Tap logo to enter site<img src="images/OmarkHealth_bg.png"></a>
             </div>
             <div class="split right">
                 <h2>O'mark primary and secondary schools</h2>
 
-                <p>click logo to enter site</p>
-                <a href=" {{ route('secondaryGallery') }} " class="button"><img src="images/omark_pictures/omark_secondary_logo.jpg" width="400px" ></a>
+                
+                <a href=" {{ route('secondaryGallery') }} " class="button">Click/Tap logo to enter site<img src="images/omark_pictures/omark_secondary_logo.jpg" width="400px" height="400px"></a>
             </div>
         </div>
         
