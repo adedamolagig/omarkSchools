@@ -18,21 +18,28 @@
 
         <link rel="stylesheet" type="text/css" href="{{ asset('css/customCSS.css') }}">
 
+        <style type="text/css">
+            img {
+                max-width: 100%;
+                height: auto;
+                width: auto\9; /* ie8 */
+            }
+        </style>
        
     </head>
     <body>
     
         <div class="container">
             <div class="split left">
-                <h2>O'mark school of health Technology</h2>
+                <!-- <h2>O'mark school of health Technology</h2> -->
 
-                <a href=" {{ route('healthHome') }} " class="button">Click/Tap logo to enter site<img src="images/OmarkHealth_bg.png"></a>
+                <a href=" {{ route('healthHome') }} " style="color: black; font-weight: bold; font-size: 30px;">Click/Tap logo to enter site<img src="images/OmarkHealth_bg.png"></a>
             </div>
             <div class="split right">
-                <h2>O'mark primary and secondary schools</h2>
+                <!-- <h2>O'mark primary and secondary schools</h2> -->
 
                 
-                <a href=" {{ route('secondaryGallery') }} " class="button">Click/Tap logo to enter site<img src="images/omark_pictures/omark_secondary_logo.jpg" width="400px" height="400px"></a>
+                <a href=" {{ route('secondaryGallery') }} " style="color: black; font-weight: bold; font-size: 30px;">Click/Tap logo to enter site<img src="images/omark_pictures/omark_secondary_logo.jpg" height="400px" width="400px"></a>
             </div>
         </div>
         
