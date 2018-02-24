@@ -27,7 +27,7 @@
 						</div>
 						<div class="col-md-6 bannergrid1 clr1">
 						<i class="fa fa-graduation-cap" aria-hidden="true"></i>
-							<h4>Health Assitant</h4>							
+							<h4>Health Assistant</h4>							
 							<div class="clearfix"></div>			
 							<p>Programme (2 years)</p>	
 						</div>
