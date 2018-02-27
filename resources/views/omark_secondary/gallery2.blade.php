@@ -52,7 +52,7 @@
 					<div class="imgs">
 						
 						
-						<img src="images/omark_pictures/img_5188.jpg">
+						<img src="{{ asset ('images/omark_pictures/img_5188.jpg') }}">
 						<img src="images/omark_pictures/img_5189.jpg">
 						<img src="images/omark_pictures/img_5190.jpg">
 						<img src="images/omark_pictures/img_5191.jpg">
