@@ -50,18 +50,18 @@
 					</div>
 
 					<div class="imgs">
-						<img src="images/omark_pictures/img_5150.jpg">
-						<img src="images/omark_pictures/img_5151.jpg">
-						<img src="images/omark_pictures/img_5152.jpg">
-						<img src="images/omark_pictures/img_5153.jpg">
-						<img src="images/omark_pictures/img_5154.jpg">
-						<img src="images/omark_pictures/img_5155.jpg">
-						<img src="images/omark_pictures/img_5156.jpg">
-						<img src="images/omark_pictures/img_5157.jpg">
-						<img src="images/omark_pictures/img_5158.jpg">
-						<img src="images/omark_pictures/img_5159.jpg">
-						<img src="images/omark_pictures/img_5160.jpg">
-						<img src="images/omark_pictures/img_5161.jpg">
+						<img src="images/omark_pictures/IMG_5150.jpg">
+						<img src="images/omark_pictures/IMG_5151.jpg">
+						<img src="images/omark_pictures/IMG_5152.jpg">
+						<img src="images/omark_pictures/IMG_5153.jpg">
+						<img src="images/omark_pictures/IMG_5154.jpg">
+						<img src="images/omark_pictures/IMG_5155.jpg">
+						<img src="images/omark_pictures/IMG_5156.jpg">
+						<img src="images/omark_pictures/IMG_5157.jpg">
+						<img src="images/omark_pictures/IMG_5158.jpg">
+						<img src="images/omark_pictures/IMG_5159.jpg">
+						<img src="images/omark_pictures/IMG_5160.jpg">
+						<img src="images/omark_pictures/IMG_5161.jpg">
 						<img src="images/omark_pictures/img_5162.jpg">
 						<img src="images/omark_pictures/img_5163.jpg">
 						<img src="images/omark_pictures/img_5164.jpg">
