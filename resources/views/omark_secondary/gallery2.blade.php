@@ -46,7 +46,7 @@
 		<div class="container">
 			<div class="col-md-8 flex">
 					<div class="main-img">
-						<img src="images/omark_pictures/img_5149.jpg" id="current">
+						<img src="images/omark_pictures/IMG_5149.JPG" id="current">
 					</div>
 
 					<div class="imgs">
