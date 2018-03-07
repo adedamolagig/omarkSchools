@@ -39,7 +39,7 @@
                 <!-- <h2>O'mark primary and secondary schools</h2> -->
 
                 
-                <a href=" {{ route('secondaryGallery') }} " style="color: black; font-weight: bold; font-size: 30px;">Click/Tap logo to enter site<img src="images/omark_pictures/omark_secondary_logo.jpg" height="400px" width="400px"></a>
+                <a href=" {{ route('secondaryGallery') }} " style="color: black; font-weight: bold; font-size: 30px;">Click/Tap logo to enter site<img src="images/omark_pictures/omark_secondary_logo.png" height="400px" width="400px"></a>
             </div>
         </div>
         
