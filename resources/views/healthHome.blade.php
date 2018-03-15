@@ -174,10 +174,7 @@
 	<div class="container">
 	<h3>We work hard to prepare every student for the adult life</h3>
 	<h3>Better Successful Future</h3>
-	<p>Voluptas assumenda est, omnis dolor repellendus. 
-		Temporibus autem quibusdam et aut officiis debitis aut 
-		rerum necessitatibus saepe.Nam libero tempore, cum soluta nobis est eligendi optio cumque 
-		nihil impedit quo minus id quod maxime placeat facere possimus</p>
+	<p></p>
 		<div class="readmore-w3">
 			<ul>
 				<li><a class="readmore" href="#"  data-toggle="modal" data-target="#myModal2">Log In</a></li>

@@ -52,22 +52,22 @@
 					<div class="imgs">
 						
 						
-						<img src="{{ asset ('images/omark_pictures/IMG_5188.JPG') }}">
-						<img src="images/omark_pictures/IMG_5189.JPG">
-						<img src="images/omark_pictures/IMG_5190.JPG">
-						<img src="images/omark_pictures/IMG_5191.JPG">
-						<img src="images/omark_pictures/IMG_5192.JPG">
-						<img src="images/omark_pictures/IMG_5193.JPG">
-						<img src="images/omark_pictures/IMG_5194.JPG">
-						<img src="images/omark_pictures/IMG_5195.JPG">
-						<img src="images/omark_pictures/IMG_5196.JPG">
-						<img src="images/omark_pictures/IMG_5197.JPG">
-						<img src="images/omark_pictures/IMG_5198.JPG">
-						<img src="images/omark_pictures/IMG_5199.JPG">
-						<img src="images/omark_pictures/IMG_5200.JPG">
-						<img src="images/omark_pictures/IMG_5200.JPG">
-						<img src="images/omark_pictures/IMG_5201.JPG">
-						<img src="images/omark_pictures/IMG_5202.JPG">
+						<img src="{{ asset ('images/omark_pictures/img_5188.JPG') }}">
+						<img src="images/omark_pictures/img_5189.JPG">
+						<img src="images/omark_pictures/img_5190.JPG">
+						<img src="images/omark_pictures/img_5191.JPG">
+						<img src="images/omark_pictures/img_5192.JPG">
+						<img src="images/omark_pictures/img_5193.JPG">
+						<img src="images/omark_pictures/img_5194.JPG">
+						<img src="images/omark_pictures/img_5195.JPG">
+						<img src="images/omark_pictures/img_5196.JPG">
+						<img src="images/omark_pictures/img_5197.JPG">
+						<img src="images/omark_pictures/img_5198.JPG">
+						<img src="images/omark_pictures/img_5199.JPG">
+						<img src="images/omark_pictures/img_5200.JPG">
+						<img src="images/omark_pictures/img_5200.JPG">
+						<img src="images/omark_pictures/img_5201.JPG">
+						<img src="images/omark_pictures/img_5202.JPG">
 
 					</div>
 			</div>
