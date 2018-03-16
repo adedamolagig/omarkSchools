@@ -20,7 +20,7 @@ class OmarkController extends Controller
 
     public function gallery3()
     {
-    	//
+    	return view('omark_secondary.gallery3');
     }
 
 }

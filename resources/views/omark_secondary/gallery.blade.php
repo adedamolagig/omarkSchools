@@ -46,7 +46,7 @@
 		<div class="container">
 			<div class="col-md-8 flex">
 					<div class="main-img">
-						<img src="images/omark_pictures/img_5149.JPG" id="current">
+						<img src="images/omark_pictures/IMG_5149.JPG" id="current">
 					</div>
 
 					<div class="imgs">
@@ -103,11 +103,7 @@
 						<img src="images/omark_pictures/img_5200.jpg"> -->
 					</div>
 			</div>
-			<div class="col-md-2">
-				<li><a href=" {{ route('gallery2') }} "> Gallery 1</a></li>
-				<li><a href="#"> Gallery 2</a></li>
-				<li><a href="#"> Gallery 3</a></li>
-			</div>	
+			@include(layouts.gallery_navbar)	
 		</div>
 		
 
