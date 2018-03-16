@@ -46,38 +46,38 @@
 		<div class="container">
 			<div class="col-md-8 flex">
 					<div class="main-img">
-						<img src="images/omark_pictures/img_5149.jpg" id="current">
+						<img src="images/omark_pictures/img_5149.JPG" id="current">
 					</div>
 
 					<div class="imgs">
-						<img src="images/omark_pictures/img_5150.JPG">
-						<img src="images/omark_pictures/img_5151.JPG">
-						<img src="images/omark_pictures/img_5152.JPG">
-						<img src="images/omark_pictures/img_5153.JPG">
-						<img src="images/omark_pictures/img_5154.JPG">
-						<img src="images/omark_pictures/img_5155.JPG">
-						<img src="images/omark_pictures/img_5156.JPG">
-						<img src="images/omark_pictures/img_5157.JPG">
-						<img src="images/omark_pictures/img_5158.JPG">
-						<img src="images/omark_pictures/img_5159.JPG">
-						<img src="images/omark_pictures/img_5160.JPG">
-						<img src="images/omark_pictures/img_5161.JPG">
-						<img src="images/omark_pictures/img_5162.JPG">
-						<img src="images/omark_pictures/img_5163.JPG">
-						<img src="images/omark_pictures/img_5164.JPG">
-						<img src="images/omark_pictures/img_5165.JPG">
-						<img src="images/omark_pictures/img_5166.JPG">
-						<img src="images/omark_pictures/img_5167.JPG">
-						<img src="images/omark_pictures/img_5168.JPG">
-						<img src="images/omark_pictures/img_5169.JPG">
-						<img src="images/omark_pictures/img_5170.JPG">
-						<img src="images/omark_pictures/img_5171.JPG">
-						<img src="images/omark_pictures/img_5172.JPG">
-						<img src="images/omark_pictures/img_5173.JPG">
-						<img src="images/omark_pictures/img_5174.JPG">
-						<img src="images/omark_pictures/img_5175.JPG">
-						<img src="images/omark_pictures/img_5176.JPG">
-						<img src="images/omark_pictures/img_5178.JPG">
+						<img src="images/omark_pictures/IMG_5150.JPG">
+						<img src="images/omark_pictures/IMG_5151.JPG">
+						<img src="images/omark_pictures/IMG_5152.JPG">
+						<img src="images/omark_pictures/IMG_5153.JPG">
+						<img src="images/omark_pictures/IMG_5154.JPG">
+						<img src="images/omark_pictures/IMG_5155.JPG">
+						<img src="images/omark_pictures/IMG_5156.JPG">
+						<img src="images/omark_pictures/IMG_5157.JPG">
+						<img src="images/omark_pictures/IMG_5158.JPG">
+						<img src="images/omark_pictures/IMG_5159.JPG">
+						<img src="images/omark_pictures/IMG_5160.JPG">
+						<img src="images/omark_pictures/IMG_5161.JPG">
+						<img src="images/omark_pictures/IMG_5162.JPG">
+						<img src="images/omark_pictures/IMG_5163.JPG">
+						<img src="images/omark_pictures/IMG_5164.JPG">
+						<img src="images/omark_pictures/IMG_5165.JPG">
+						<img src="images/omark_pictures/IMG_5166.JPG">
+						<img src="images/omark_pictures/IMG_5167.JPG">
+						<img src="images/omark_pictures/IMG_5168.JPG">
+						<img src="images/omark_pictures/IMG_5169.JPG">
+						<img src="images/omark_pictures/IMG_5170.JPG">
+						<img src="images/omark_pictures/IMG_5171.JPG">
+						<img src="images/omark_pictures/IMG_5172.JPG">
+						<img src="images/omark_pictures/IMG_5173.JPG">
+						<img src="images/omark_pictures/IMG_5174.JPG">
+						<img src="images/omark_pictures/IMG_5175.JPG">
+						<img src="images/omark_pictures/IMG_5176.JPG">
+						<img src="images/omark_pictures/IMG_5178.JPG">
 						
 
 						<!-- <img src="images/omark_pictures/img_5176.jpg">
