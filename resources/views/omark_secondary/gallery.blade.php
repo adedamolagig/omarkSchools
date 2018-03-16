@@ -103,7 +103,7 @@
 						<img src="images/omark_pictures/img_5200.jpg"> -->
 					</div>
 			</div>
-			@include(layouts.gallery_navbar)	
+			@include('layouts.gallery_navbar')	
 		</div>
 		
 
