@@ -63,7 +63,7 @@
 				  </button>
 					 <div class="navbar-brand logo ">
 						<h1 class="animated wow pulse" data-wow-delay=".5s">
-						<a href="index.html">O'mark School of Health Technology</a></h1>
+						<a href=" {{ route('healthHome') }} ">O'mark School of Health Technology</a></h1>
 					</div>
 
 				</div>
@@ -151,7 +151,7 @@
 					</div>
 					<div class="col-xs-8 contact-grdr">
 						<ul>
-							<li><a href="mailto:info@example.com">omarkhealth@gmail.com</a></li>
+							<li><a href="mailto:omarkhealth@gmail.com">omarkhealth@gmail.com</a></li>
 						</ul>
 					</div>
 					<div class="clearfix"> </div>

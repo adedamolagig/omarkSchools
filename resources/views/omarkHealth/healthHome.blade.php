@@ -168,8 +168,8 @@
 	<p></p>
 		<div class="readmore-w3">
 			<ul>
-				<li><a class="readmore" href="#"  data-toggle="modal" data-target="#myModal2">Log In</a></li>
-				<li><a class="readmore" href="#"  data-toggle="modal" data-target="#myModal3">Online Application</a></li>
+				<li><a class="readmore" href=" {{ route('login') }} " >Log In</a></li>
+				<li><a class="readmore" href=" {{ route('register') }} " >Online Application</a></li>
 			</ul>
 		</div>
 	</div>
@@ -265,7 +265,6 @@
 <!--//clients-->
 
 
-@extends('popup')
 
 
 @endsection

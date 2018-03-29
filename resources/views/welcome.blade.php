@@ -7,11 +7,11 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
         <meta name="description" content="Omark Schools">
-        <meta name="keywords" content="School of health technology, secondary schools, primary schools, omark">
+        <meta name="keywords" content="School of health technology, secondary schools, primary schools, omark, o'mark">
         <meta name="author" content="Adedamola">
        
 
-        <title>Omark Schools</title>
+        <title>O'mark Schools</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">

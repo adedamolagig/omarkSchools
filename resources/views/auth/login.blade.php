@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.navbar')
 
 @section('content')
 <div class="container">
@@ -61,6 +61,14 @@
                             </div>
                         </div>
                     </form>
+
+                     <div>
+                        <a href=" {{ route('register') }} ">
+                            <button class="col-md-2 col-md-offset-4 btn btn-primary">
+                            Register
+                            </button>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
