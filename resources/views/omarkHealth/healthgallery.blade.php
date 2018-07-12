@@ -26,7 +26,7 @@
 							<img src="images/v1.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li> -->
@@ -35,7 +35,7 @@
 							<img src="images/v2.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -44,7 +44,7 @@
 							<img src="images/v3.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -53,7 +53,7 @@
 							<img src="images/v4.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -62,7 +62,7 @@
 							<img src="images/v5.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -71,7 +71,7 @@
 							<img src="images/v6.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -80,7 +80,7 @@
 							<img src="images/v7.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -89,7 +89,7 @@
 							<img src="images/v8.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -98,7 +98,7 @@
 							<img src="images/v9.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -107,7 +107,7 @@
 							<img src="images/v.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -116,7 +116,7 @@
 							<img src="images/v.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
@@ -125,7 +125,7 @@
 							<img src="images/v.jpg" alt=" " class="img-responsive" />
 							<div class="p-mask">
 									<h4>O'mark Health</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum.</p>
+								<p>omark gallery.</p>
 							</div>
 						</div>
 					</li>
